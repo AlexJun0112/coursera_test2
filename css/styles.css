@@ -1,0 +1,66 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  margin:0;
+  padding:0;
+}
+
+.container-fluid{
+  background-color: gray;
+}
+
+#title1 {
+    color:black;
+    font-weight:bold;
+    font-size:1.5em;
+}
+
+
+.navbar-default .navbar-toggle {
+  border-color: #ffffff;
+}
+
+.navbar-default .collapsed {
+    border-color: #000000;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
+.navbar-default .collapsed .icon-bar {
+    background-color: #000000;
+}
+
+
+.na, .navbar-nav{
+  background-color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color:black;
+  font-weight:bold;
+  font-size:1.3em;
+}
+
+.navbar-nav > li > a{
+  border: solid black;
+  
+}
+
+.col-xs-12{
+  width: 95%;
+  margin:0% 2.5%
+}
+
+.col-md-12{
+  width: 95%;
+  margin:0% 2.5%
+}
+
+
+.col-sm-12{
+  width: 98%;
+  margin:0% 1%
+} 
